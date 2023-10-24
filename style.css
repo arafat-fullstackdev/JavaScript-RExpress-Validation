@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(165, 118, 240);
+    color: cornsilk;
+}
+
+.container{
+    text-align: center;
+    justify-content: center;
+    padding: 1rem;
+    margin: 1rem ;
+}
+.container h1{
+    font-size: 1.2rem;
+    font-weight: bold;
+}
